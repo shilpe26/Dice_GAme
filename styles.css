@@ -25,8 +25,10 @@ h1 {
 }
 
 p {
-  font-size: 2rem;
+  font-size: 3rem;
   color: black;
+    line-height: inherit;
+    text-shadow: 3px 0 #232931;
     text-decoration-style: solid;
   font-family: 'Indie Flower', cursive;
 }
